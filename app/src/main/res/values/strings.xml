@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Spam Detector</string>
+    <string name="heading">SPAM Detection Application</string>
+    <string name="hint_enter_message">Enter your message here...</string>
+    <string name="predict_button">Predict</string>
+    <string name="please_enter_message">Please enter a message</string>
+    <string name="prediction_prefix">Prediction: </string>
+</resources>
