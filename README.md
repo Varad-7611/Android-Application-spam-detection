@@ -25,7 +25,13 @@ An Android application that detects whether a given message is **Spam** or **Not
 - Python Flask
 - Scikit-learn ML Model
 - Pickle for model serialization
-- Hosted via Render or local Flask server
+
+
+### ☁️ Deployment
+
+* API is hosted on Render
+* Cron Job is used to periodically ping the API so that the server does not shut down
+
 
 ---
 
